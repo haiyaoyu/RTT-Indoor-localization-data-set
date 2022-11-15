@@ -1,3 +1,4 @@
 # Indoor-localization-data-set
 The data sets are collected in 7 different real world scenarios, which include the round trip time(RTT), the received signal strength (RSS), the Inertial Measurement Unit(IMU) data as well as the floor plan.
+
 In each scenario, there will be variable circle folders and a excel file includes the access point (AP)location and index.The floor plan with and without the AP location and the trajectory is also provided. In each circle folder, the first two excel files are the raw data collected in the two cellphones, which contains the RTT, RSS from all APs and the IMU data from themselves. The next two excel files are the data sets, which are cleaned and filtered from the first two excel files. The last excel contain the RTT and RSS information between the two cell phones.

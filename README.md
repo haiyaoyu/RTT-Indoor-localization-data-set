@@ -12,6 +12,8 @@ The IMU information includes the output of 3-axis accelerators, gyroscopes and m
 ![image](https://user-images.githubusercontent.com/118267135/201909285-7ef9c8e6-7872-4749-8bb6-1c753493c1ac.png)
 
 To use our dataset, please cite the following paper.
+
+
 @ARTICLE{10620428,
   author={Yu, Haiyao and She, Changyang and Hu, Yunkai and Wang, Geng and Wang, Rui and Vucetic, Branka and Li, Yonghui},
   journal={IEEE Journal on Selected Areas in Communications}, 

@@ -11,3 +11,15 @@ The IMU information includes the output of 3-axis accelerators, gyroscopes and m
 
 ![image](https://user-images.githubusercontent.com/118267135/201909285-7ef9c8e6-7872-4749-8bb6-1c753493c1ac.png)
 
+To use our dataset, please cite the following paper.
+@ARTICLE{10620428,
+  author={Yu, Haiyao and She, Changyang and Hu, Yunkai and Wang, Geng and Wang, Rui and Vucetic, Branka and Li, Yonghui},
+  journal={IEEE Journal on Selected Areas in Communications}, 
+  title={Floor-Plan-Aided Indoor Localization: Zero-Shot Learning Framework, Data Sets, and Prototype}, 
+  year={2024},
+  volume={42},
+  number={9},
+  pages={2472-2486},
+  keywords={Location awareness;Accuracy;Zero-shot learning;Wireless fidelity;Graph neural networks;Classification algorithms;Synthetic data;Indoor localization;zero-shot learning;graph neural networks;deep vision transformer},
+  doi={10.1109/JSAC.2024.3413994}}
+
